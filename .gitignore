@@ -1,2 +1,7 @@
 *.key
 *.crt
+
+# vim temp file
+*~
+*.swp
+*.swo
